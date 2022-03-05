@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\json_server"
+		},
+		{
+			"path": "..\\..\\Downloads\\pcoint"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Dev",
+		"git.ignoreLimitWarning": true
+	}
+}
